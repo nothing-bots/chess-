@@ -1,14 +1,14 @@
 {
     webApp: {
         customize: {
-            url: "<URL>",
+            url: "http://hehe-gamma-swart.vercel.app",
         },
         game: {
             name: "game",
         }
     },
     bot: {
-        token: "<TOKEN>",
+        token: "7652563058:AAGirGKSQlIPmr1C94z3v62mV8FKTZxRM2k",
     },
     gameServer: {
         gameModes: {
